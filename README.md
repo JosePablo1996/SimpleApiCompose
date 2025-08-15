@@ -1,5 +1,4 @@
 SimpleApiCompose
-
 Una aplicación de ejemplo para Android que consume una API REST pública (JSONPlaceholder) y muestra la información en una lista usando Jetpack Compose. El proyecto demuestra el uso de una arquitectura modular y moderna, incluyendo filtros y ordenamiento de datos.
 
 Características Principales
@@ -30,6 +29,7 @@ Configuración del Proyecto
 Para ejecutar este proyecto de forma local, sigue estos pasos:
 
 Clona el repositorio:
+
 git clone https://github.com/JosePablo1996/SimpleApiCompose.git
 
 Abre el proyecto: Abre el proyecto en Android Studio.
@@ -37,3 +37,6 @@ Abre el proyecto: Abre el proyecto en Android Studio.
 Sincroniza Gradle: Espera a que Android Studio sincronice las dependencias de Gradle.
 
 Ejecuta la aplicación: Conecta un dispositivo Android o usa un emulador, y haz clic en el botón de "Run" en Android Studio.
+
+Licencia
+Este proyecto está distribuido bajo la Licencia MIT. Esto significa que puedes usar, copiar, modificar, fusionar, publicar, distribuir, sublicenciar y vender copias del software sin restricciones. Para más detalles, consulta el archivo LICENSE.md en el repositorio.
